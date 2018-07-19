@@ -1,0 +1,56 @@
+{"basics":{
+ "image":"profile.JPG",
+ "name":"Madhuri Kommisetti",
+ "phoneno":"+91-8888899999",
+ "email":"madhuri.setti02@gmail.com",
+ "Address1":"Address:",
+ "Address":"SRKR Engineering college,Bhimavaram."
+},
+"CareerObjective":{
+  "car":"Career Objective:",
+  "info":"To pursue a challenging Career."
+},
+"education":[
+  {
+  "degree":"B.Tech",
+  "institute":"SRKR college",
+  "duration":["2017-2021","79%"],
+  "branch":"Information Technology"
+},
+{
+  "degree":"Intermediate",
+  "institute":"Aditya college",
+  "duration":["2017-2021","90%"],
+  "branch":"MPC"
+},
+{
+  "degree":"SSC",
+  "institute":"Bardoli public school",
+  "duration":["2014-2015","92%"],
+  "branch":"English medium"
+}
+],
+"skill":[
+  {
+    "title":"Languages:",
+    "data":["C","C++","Java","Phython"]
+  },
+  {
+    "title":"Databases:",
+    "data":["SQL","MySQL","Oracle"]
+  },
+  {
+    "title":"Operating systems:",
+    "data":["Windows","Ubuntu","iOs"]
+  }
+],
+"achievements":
+{
+  "heading":"Certified in:",
+  "ppt":"Won first prize in Powerpoint Presentation.",
+  "cisco":"Achieved Online Course Cisco badge Certificate.",
+  "csi":"Worked as EBM for computer society of India.",
+  "web":"Web Techologies like HTML,CSS,Java Script,PHP.",
+  "photoshop":"Adobe Photoshop and worked as assistant."
+}
+}
